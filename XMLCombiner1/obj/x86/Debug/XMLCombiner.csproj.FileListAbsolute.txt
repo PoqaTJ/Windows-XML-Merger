@@ -1,0 +1,7 @@
+C:\Users\TJ-Lappy\AppData\Local\Temporary Projects\XMLCombiner\bin\Debug\XMLCombiner.exe
+C:\Users\TJ-Lappy\AppData\Local\Temporary Projects\XMLCombiner\bin\Debug\XMLCombiner.pdb
+C:\Users\TJ-Lappy\AppData\Local\Temporary Projects\XMLCombiner\obj\x86\Debug\XMLCombiner.Form1.resources
+C:\Users\TJ-Lappy\AppData\Local\Temporary Projects\XMLCombiner\obj\x86\Debug\XMLCombiner.Properties.Resources.resources
+C:\Users\TJ-Lappy\AppData\Local\Temporary Projects\XMLCombiner\obj\x86\Debug\XMLCombiner.csproj.GenerateResource.Cache
+C:\Users\TJ-Lappy\AppData\Local\Temporary Projects\XMLCombiner\obj\x86\Debug\XMLCombiner.exe
+C:\Users\TJ-Lappy\AppData\Local\Temporary Projects\XMLCombiner\obj\x86\Debug\XMLCombiner.pdb
