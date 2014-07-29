@@ -1,0 +1,19 @@
+C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\bin\Release\XMLMerger.exe
+C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\bin\Release\XMLMerger.pdb
+C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Release\XMLMerger.Form1.resources
+C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Release\XMLMerger.Properties.Resources.resources
+C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Release\XMLMerger.csproj.GenerateResource.Cache
+C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Release\XMLMerger.exe
+C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Release\XMLMerger.pdb
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.pdb
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.exe
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.pdb
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.Form1.resources
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.Properties.Resources.resources
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.csproj.GenerateResource.Cache
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.exe.manifest
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.application
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe.manifest
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.application
+C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.csprojResolveAssemblyReference.cache
