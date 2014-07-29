@@ -5,3 +5,15 @@ C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Debug\XMLMerger.P
 C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Debug\XMLMerger.csproj.GenerateResource.Cache
 C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Debug\XMLMerger.exe
 C:\Users\TJ\AppData\Local\Temporary Projects\XMLMerger\obj\x86\Debug\XMLMerger.pdb
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Debug\XMLMerger.exe.manifest
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Debug\XMLMerger.application
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Debug\XMLMerger.exe
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Debug\XMLMerger.pdb
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.Form1.resources
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.Properties.Resources.resources
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.csproj.GenerateResource.Cache
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.exe.manifest
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.application
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.exe
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.pdb
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Debug\XMLMerger.csprojResolveAssemblyReference.cache

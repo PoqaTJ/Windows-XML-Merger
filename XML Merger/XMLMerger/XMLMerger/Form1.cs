@@ -13,12 +13,9 @@ namespace XMLMerger
 {
     public partial class Form1 : Form
     {
-        public List<LoadedFile> Files;
-
         public Form1()
         {
             InitializeComponent();
-            Files = new List<LoadedFile>();
         }
 
         private void AddFilesButton_Click(object sender, EventArgs e)
@@ -32,63 +29,45 @@ namespace XMLMerger
             {
                 foreach (string s in dialog.FileNames)
                 {
-                    Files.Add(new LoadedFile(s));
+                    try
+                    {
+                        XDocument.Load(s);
+                        FileList.Items.Add(s);
+                    }
+                    catch (Exception e1)
+                    {
+                        MessageBox.Show("Couldn't load file " + s + " as an XML document.");
+                    }
                 }
             }
-
-            RefreshUI();
-        }
-
-        public void RefreshUI()
-        {
-            if (Files != null)
-            {
-                List<string> names = Files.Select(f => f.FileName).ToList();
-
-                FileList.Items.Clear();
-                FileList.Items.AddRange(names.ToArray());
-            }
-            else
-                FileList.Items.Clear();
         }
 
         private void RemoveFileButton_Click(object sender, EventArgs e)
         {
-            List<string> names = new List<string>();
-
-            foreach (Object o in FileList.SelectedItems)
-                names.Add(o.ToString());
-
-            ClearFiles(names);
-            RefreshUI();
+            FileList.ClearSelected();
         }
 
         private void ClearFilesButton_Click(object sender, EventArgs e)
         {
-            ClearFiles();
-            RefreshUI();
-        }
-
-        private void ClearFiles()
-        {
-            Files = new List<LoadedFile>();
-        }
-
-        private void ClearFiles(List<string> names)
-        {
-            foreach (string s in names)
-            {
-                for (int i = 0; i <= Files.Count - 1; i++)
-                    if (Files[i].FileName == s)
-                        Files.RemoveAt(i);
-            }
+            FileList.Items.Clear();
         }
 
         private void MergeButton_Click(object sender, EventArgs e)
         {
+            List<LoadedFile> Files = new List<LoadedFile>();
+
+            foreach (string s in FileList.Items)
+            {
+                Files.Add(new LoadedFile(s));
+            }
+
+            DupeTester.FindDuplicates(ref Files);
+
             XDocument result = new XDocument(new XElement("StrSheet_Item"));
 
             List<XElement> allElements = new List<XElement>();
+
+            
 
             foreach (LoadedFile f in Files)
             {

@@ -70,8 +70,6 @@
             // FileList
             // 
             this.FileList.FormattingEnabled = true;
-            this.FileList.Items.AddRange(new object[] {
-            "None"});
             this.FileList.Location = new System.Drawing.Point(3, 3);
             this.FileList.Name = "FileList";
             this.FileList.Size = new System.Drawing.Size(237, 290);

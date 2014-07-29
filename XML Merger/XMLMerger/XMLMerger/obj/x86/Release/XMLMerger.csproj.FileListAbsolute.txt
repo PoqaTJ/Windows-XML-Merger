@@ -17,3 +17,14 @@ C:\Python Projects\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.applicat
 C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe.manifest
 C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.application
 C:\Python Projects\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.csprojResolveAssemblyReference.cache
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.Form1.resources
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.Properties.Resources.resources
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.csproj.GenerateResource.Cache
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.exe.manifest
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.application
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.exe
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.pdb
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe.manifest
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.application
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.pdb
