@@ -28,3 +28,4 @@ C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\
 C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.application
 C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe
 C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.pdb
+C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.MergePopup.resources

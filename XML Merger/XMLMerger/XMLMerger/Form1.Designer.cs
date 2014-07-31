@@ -104,7 +104,7 @@
             this.Controls.Add(this.MergeButton);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "XML Merger";
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
