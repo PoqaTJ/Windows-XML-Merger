@@ -29,3 +29,16 @@ C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\
 C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe
 C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.pdb
 C:\Users\TJ\Documents\Windows-XML-Merger\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.MergePopup.resources
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.exe.manifest
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.application
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.exe
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\bin\Release\XMLMerger.pdb
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.csprojResolveAssemblyReference.cache
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.Form1.resources
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.MergePopup.resources
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.Properties.Resources.resources
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.csproj.GenerateResource.Cache
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe.manifest
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.application
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.exe
+D:\Projects\Tina XML Project\XML Merger\XMLMerger\XMLMerger\obj\x86\Release\XMLMerger.pdb

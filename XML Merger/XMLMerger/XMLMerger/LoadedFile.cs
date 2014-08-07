@@ -64,5 +64,37 @@ namespace XMLMerger
 
             Console.WriteLine("Added " + Count + " elements.");
         }
+
+        internal bool HasElementWithID(string ID)
+        {
+            foreach (XElement e in Elements)
+            {
+                if (e.Attribute("id").Value == ID)
+                    return true;
+            }
+
+            return false;
+        }
+
+        internal string GetValueForID(string attribute, string ID)
+        {
+            foreach (XElement e in Elements)
+            {
+                if (e.Attribute("id").Value == ID)
+                    return e.Attribute(attribute).Value;
+            }
+
+            return null;
+        }
+
+        internal string GetStringForID(string ID)
+        {
+            return GetValueForID("string", ID);
+        }
+
+        internal string GetTooltipForID(string ID)
+        {
+            return GetValueForID("toolTip", ID);
+        }
     }
 }

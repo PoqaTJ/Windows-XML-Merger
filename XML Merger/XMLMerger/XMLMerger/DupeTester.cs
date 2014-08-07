@@ -11,8 +11,6 @@ namespace XMLMerger
     {
         public static void FindDuplicates(ref List<LoadedFile> Files)
         {
-            
-
             bool DuplicateFound = true;
 
             while (DuplicateFound == true)
@@ -21,7 +19,12 @@ namespace XMLMerger
 
                 if (duplicateID != null)
                 {
-                    RemoveElementWithID(ref Files, duplicateID);
+                    // choose which file to keep
+                    var Popup = new MergePopup();
+                    Popup.SetItems(duplicateID, Files);
+                    Popup.ShowDialog();
+                    string exception = Popup.Choice;
+                    RemoveElementWithID(ref Files, exception, duplicateID);
                 }
                 else
                     DuplicateFound = false;
@@ -50,19 +53,23 @@ namespace XMLMerger
             return null;
         }
 
-        private static void RemoveElementWithID(ref List<LoadedFile> Files, string p)
+        private static void RemoveElementWithID(ref List<LoadedFile> Files, string exception, string p)
         {
-            MessageBox.Show("Duplicate detected! Removing all items with id " + p);
+            //MessageBox.Show("Duplicate detected! Removing all items with id " + p);
 
             List<LoadedFile> filesWithDuplicates = new List<LoadedFile>();
 
             foreach (LoadedFile f in Files)
             {
-                foreach (XElement e in f.Elements)
+                if (f.FileName != exception)
                 {
-                    if (e.Attribute("id").Value == p)
+
+                    foreach (XElement e in f.Elements)
                     {
-                        filesWithDuplicates.Add(f);
+                        if (e.Attribute("id").Value == p)
+                        {
+                            filesWithDuplicates.Add(f);
+                        }
                     }
                 }
             }

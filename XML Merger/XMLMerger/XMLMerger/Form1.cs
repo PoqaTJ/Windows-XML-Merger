@@ -67,8 +67,6 @@ namespace XMLMerger
 
             List<XElement> allElements = new List<XElement>();
 
-            
-
             foreach (LoadedFile f in Files)
             {
                 allElements.AddRange(f.Elements);
@@ -92,10 +90,13 @@ namespace XMLMerger
                 stream.Close();
                 string path = Path.GetDirectoryName(save.FileName);
                 System.Diagnostics.Process.Start(path);
+
+                MessageBox.Show("Success!");
             }
-
-            MessageBox.Show("Finished merging.");
-
+            else
+            {
+                MessageBox.Show("No file saved.");
+            }
         }
     }
 }

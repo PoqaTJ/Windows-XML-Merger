@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XMLMerger.exe" size="14336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XMLMerger.exe" size="15360">
       <assemblyIdentity name="XMLMerger" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>huua9ZFEwFZ2A04jLYfnH3SYzHM=</dsig:DigestValue>
+        <dsig:DigestValue>EzgswKAqboVTvAf6Ft73MElxMNE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
